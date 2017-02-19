@@ -36,6 +36,7 @@ Slide on over to the Electron window and enjoy looking at your sexy new electron
 ## Credits
 
 - [@Atinux](https://github.com/Atinux) and [@alexchopin](https://github.com/alexchopin) for creating [Nuxt.js](https://github.com/nuxt/nuxt.js) and the [Nuxt Express Starter](https://github.com/nuxt/express) I am currently using with this project!
+- [@wormen](https://github.com/wormen) For giving me the idea for this repo, and helping with guidance on the upcoming Asar version
 
 ## tl;sr(too long;still read)
 
