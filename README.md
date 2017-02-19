@@ -34,4 +34,9 @@ Now watch the terminal window(NOT Electron) and wait exactly between a little wh
 Slide on over to the Electron window and enjoy looking at your sexy new electronuxt app! I hope you like it, because like explained above, it's very hard to change. But this isn't forever! Check back over the next few days and you should notice some major changes!
 
 ## Credits
+
 - [@Atinux](https://github.com/Atinux) and [@alexchopin](https://github.com/alexchopin) for creating [Nuxt.js](https://github.com/nuxt/nuxt.js) and the [Nuxt Express Starter](https://github.com/nuxt/express) I am currently using with this project!
+
+## tl;sr(too long;still read)
+
+As a reward for reading the whole README, I'll let you in on a secret. Legend has it those who star this repo will have good fortune all of their days(and even a few of their nights)!
