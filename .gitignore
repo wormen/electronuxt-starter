@@ -1,2 +1,13 @@
+/.info/
+
+# dependencies
 node_modules
-nuxt
+
+# logs
+npm-debug.log
+
+# Nuxt build
+/app/.nuxt
+app/dist
+/release-builds/*
+/app/server.prod.js
