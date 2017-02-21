@@ -4,8 +4,9 @@
   "description": "Create an Electron app that serves a Nuxt.js app",
   "main": "app/index.js",
   "scripts": {
-    "package-app": "nuxt build ./app && node ./tools/packager.js",
+    "app": "cross-env NODE_ENV=production ./node_modules/.bin/electron ./app",
     "dev": "node ./tools/dev.js",
+    "package-app": "nuxt build ./app && node ./tools/packager.js",
     "lint": "eslint --ext .js,.vue --ignore-path .gitignore ./app",
     "precommit": "npm run lint"
   },
